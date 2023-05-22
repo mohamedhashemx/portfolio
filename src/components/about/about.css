@@ -1,0 +1,44 @@
+.section__title{
+    left: 20%;
+}
+
+.about{
+    width:70%;
+}
+
+.about__container{
+    margin-top: 1.5rem;
+}
+
+.about__description ,a{
+    margin-top: 1.5rem;
+}
+
+.about__img:hover{
+    transform: scale(1.2);
+    transition: 1s;
+}
+
+.skills__list{
+    margin-top: 3rem;
+}
+
+.skills__list1 ,li{
+    display: inline-block;
+    margin-top: 1.5rem;
+    text-align: center;
+    line-height: 2;
+    gap: 1.5rem;
+
+}
+
+
+
+ul img{
+    margin: 2em;
+    border-radius: 1.225rem;
+    -webkit-border-radius: 1.225rem;
+    -moz-border-radius: 1.225rem;
+    -ms-border-radius: 1.225rem;
+    -o-border-radius: 1.225rem;
+}
